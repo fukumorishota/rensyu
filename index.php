@@ -4,9 +4,11 @@
 
 </head>
 <script>
-	document.write("Javascript");
 </script>
 <body>
-
+	<div id="header">
+		<div class="header nav">
+		zs
+	</div>
 </body>
 </html>
