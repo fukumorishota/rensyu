@@ -8,7 +8,7 @@
 <body>
 	<div id="header">
 		<div class="header nav">
-		zs
+		<p>文章ダミー文章ダミー文章ダミー文章ダミー文章ダミー文章ダミー文章ダミー<p>
 	</div>
 </body>
 </html>
